@@ -3,10 +3,7 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/johnggli/nino?color=%23FF669D">
-  
-  <a href="https://www.linkedin.com/in/johnggli/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-John%20Emerson-%23FF669D">
-  </a>
+
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnggli/nino?color=%23FF669D">
   
@@ -79,7 +76,3 @@ Once your pull request has been merged, you can delete your branch.
 ## 📝 License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
-
----
-
-Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
